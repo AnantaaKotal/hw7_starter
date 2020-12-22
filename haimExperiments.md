@@ -1,6 +1,6 @@
 # CMSC 671 Fall 2020 HW7
 
-# Your Name, Your UMBC ID
+# ANANTAA KOTAL, anantak1@umbc.edu
 
 What follows is a partial example of what you should do for your topics.
 
@@ -93,16 +93,16 @@ The paragraph sounds like a legitimate Wikipaedia entry for Lynyrd Skynyrd. Howe
 ## 3. Example topic:
 
 ---
-### 1.2 Beginning
+### 1.3 Beginning
 Abraham Lincoln was the 16th president of the United States.
 
-### 1.2 End
+### 1.3 End
 He abolished slavery in 1865.
 
-### 1.2 Result
+### 1.3 Result
 Abraham Lincoln was the 16th president of the United States. Founded in Springfield, Illinois, his political career began in 1835 when he came to the Illinois legislature as one of its first twenty-six new members. In 1843, he was elected mayor of the city. After the 1858 election, Lincoln formed an opposition party, which won a majority in the Illinois Legislature. He was elected to the United States Senate and served two terms (1859–1865), and from 1865–1869. At the outbreak of the Civil War in 1861, Lincoln called a convention to consider the proposal for a new government. He died the next year in office. He abolished slavery in 1865.
 
-### 1.2 Assessment
+### 1.3 Assessment
 Most of the facts presented are inaccurate. However, the paragraph does stick to talk about the colourful career of a politician. It is not the political career of Abraham Lincoln. But it could be one for a fictional 16th president of the United States.
 ---
 
